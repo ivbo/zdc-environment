@@ -6,3 +6,19 @@
 	path = web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+[submodule "timesheet"]
+	path = timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 14.0
+[submodule "project"]
+	path = project
+	url = git@github.com:OCA/project.git
+	branch = 14.0
+[submodule "dms"]
+	path = dms
+	url = git@github.com:OCA/dms.git
+	branch = 14.0
+[submodule "server-auth"]
+	path = server-auth
+	url = git@github.com:OCA/server-auth.git
+	branch = 14.0
